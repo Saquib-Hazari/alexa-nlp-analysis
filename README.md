@@ -1,9 +1,5 @@
 # Amazon Alexa Reviews (NLP)
 
-# Introduction
-
-## Project Overview
-
 This project aims to analyze Amazon Alexa reviews using Natural Language Processing (NLP) techniques. The primary objective is to perform sentiment analysis, classify reviews, and visualize data trends. We use a combination of Python libraries to preprocess the data, build models, and evaluate their performance.
 
 ## Features
